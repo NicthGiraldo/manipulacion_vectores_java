@@ -101,7 +101,7 @@ class Vector extends Reception {
         int suma = 0;
 
         for (int i = 0; i < num.length; i++) {
-            suma += num[0] + suma;
+            suma += num[i];
         }
 
         return suma;
@@ -121,9 +121,11 @@ class Vector extends Reception {
             System.out.println("se te redirigirá el menu...");
         } else {
             numMayProm = new int[tamNuevoVector];
-            for (int i = 0; i < numMayProm.length; i++) {
+            int cont = 0;
+            for (int i = 0; i < num.length; i++) {
                 if (num[i] > promedio) {
-                    numMayProm[i] = num[i];
+                    numMayProm[cont] = num[i];
+                    cont++;
                 }
             }
             mostrar(false);
