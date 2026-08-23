@@ -7,6 +7,7 @@ se muestra al final los valores ingresados y se devuelve al menú
 <img width="768" height="666" alt="image" src="https://github.com/user-attachments/assets/6aa6624b-df36-41da-9ec6-db2eae4c58fc" />
 
 segunda función, buscar el numero
+
 <img width="724" height="313" alt="image" src="https://github.com/user-attachments/assets/5869ca0a-265a-49d9-9a49-c4402683d705" />
 
 función tres, se indica cual es el numero mayor y menor en el vector 
@@ -25,4 +26,5 @@ estos son los valores que se ingresaron en el vector original
 este es el nuevo vector con valores mayores al promedio 
 <img width="722" height="362" alt="image" src="https://github.com/user-attachments/assets/b3391617-5c65-4c09-baa5-2839485f79ce" />
 
-
+>>>>>>>>>>>>>>>>>>>>>>>>>LINK DEL VIDEO EN DRIVE<<<<<<<<<<<<<<<<<<<<<<<<<
+https://drive.google.com/file/d/1ug8lGlK1newmv0pPLql-dPD_cWeuvk7L/view?usp=sharing
